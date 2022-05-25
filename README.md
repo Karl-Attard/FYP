@@ -2,9 +2,8 @@
 
 ## Notebook Files
 
-1. Preprocessing.ipynb
-2. Crime Type Prediction.ipynb
-3. Crime Rate Prediction.ipynb
+1. Crime Type Prediction.ipynb
+2. Crime Rate Prediction.ipynb
 
 ## Execution of Notebooks
 
